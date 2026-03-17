@@ -1,0 +1,1 @@
+{\n  "name": "hrs-web",\n  "version": "1.0.0",\n  "description": "Backend for HRS Web Application",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "jsonwebtoken": "^8.5.1",\n    "bcrypt": "^5.0.1",\n    "mongoose": "^5.10.9",\n    "dotenv": "^8.2.0"\n  }\n}
